@@ -1,0 +1,95 @@
+Location,Track,ID
+Big Valley Speedway,Open Demolition Arena,speedway2_classic_arena            
+Big Valley Speedway,Demolition arena,speedway2_demolition_arena      
+Big Valley Speedway,Figure 8,speedway2_figure_8                     
+Big Valley Speedway,Inner Oval,speedway2_inner_oval                 
+Big Valley Speedway,Outer Oval,speedway2_outer_oval                 
+Big Valley Speedway,Outer Oval Loop,speedway2_oval_loop
+Bloomfield Speedway,Dirt Oval,dirt_speedway_dirt_oval               
+Bloomfield Speedway,Figure 8,dirt_speedway_figure_8               
+Bonebreaker Valley,Main Circuit,bonebreaker_valley_main_circuit
+Boulder Bank Circuit,Main Route,sandpit3_long_loop                       
+Boulder Bank Circuit,Main Route Reverse,sandpit3_long_loop_rev                
+Boulder Bank Circuit,Short Route,sandpit3_short_loop                     
+Boulder Bank Circuit,Short Route Reverse,sandpit3_short_loop_rev   
+Clayridge Circuit,Main Circuit,mixed9_r1
+Clayridge Circuit,Main Circuit Reverse,mixed9_r1_rev
+Crash Canyon,Main Circuit,crash_canyon_main_circuit            
+Deathloop,Main Circuit,loop
+Dirt Devil Stadium,Dirt Speedway,triangle_r1
+Dirt Devil Stadium,Demolition Arena,triangle_r2
+Drytown Desert Circuit,Main Circuit,fields08_1
+Drytown Desert Circuit,Main Circuit Reverse,fields08_1_rev
+Eagles Peak Motorpark,Racing Track,fields13_1
+Eagles Peak Motorpark,Racing Track Reverse,fields13_1_rev
+Eagles Peak Motorpark,Demolition Arena,fields13_2
+Espedalen Raceway,Main Circuit,tarmac3_main_circuit                     
+Espedalen Raceway,Main Circuit Reverse,tarmac3_main_circuit_rev              
+Espedalen Raceway,Short Circuit,tarmac3_short_circuit                    
+Espedalen Raceway,Short Circuit Reverse,tarmac3_short_circuit_rev
+Fairfield County,Demolition Arena,smallstadium_demolition_arena    
+Fairfield Mud Pit,Demolition Arena,mudpit_demolition_arena
+Fairfield Grass Arena,Demolition Arena,grass_arena_demolition_arena    
+Finncross Circuit,Main Circuit,mixed1_main_circuit                      
+Finncross Circuit,Main Circuit Reverse,mixed1_main_circuit_rev               
+Fire Rock Raceway,Main Circuit,tarmac1_main_circuit                     
+Fire Rock Raceway,Main Circuit Reverse,tarmac1_main_circuit_rev              
+Fire Rock Raceway,Short Circuit,tarmac1_short_circuit                    
+Fire Rock Raceway,Short Circuit Reverse,tarmac1_short_circuit_rev             
+Firwood Motocenter,Main Circuit,mixed7_r1
+Firwood Motocenter,Main Circuit Reverse,mixed7_r1_rev
+Firwood Motocenter,Short Circuit,mixed7_r3
+Firwood Motocenter,Short Circuit Reverse,mixed7_r3_rev
+Glendale Countryside,Field Arena,field_derby_arena       
+Hellride,Main Circuit,urban06
+Hilltop Stadium,Figure 8,speedway1_figure_8                     
+Hilltop Stadium,Oval,speedway1_oval                           
+Hillstreet Circuit,Race Track,urban08_1
+Hillstreet Circuit,Race Track Reverse,urban08_1_rev
+Kingston Raceway,Asphalt Oval,fields12_1
+Kingston Raceway,Asphalt Oval Reverse,fields12_1_rev
+Kingston Raceway,Figure 8,fields12_2
+Maasten Motocenter,Main Circuit,mixed2_main_circuit
+Maasten Motocenter,Main Circuit Reverse,mixed2_main_circuit_rev
+Madman Stadium,Demolition Arena,bigstadium_demolition_arena
+Madman Stadium,Figure 8,bigstadium_figure_8
+Midwest Motocenter,Main Circuit,gravel1_main_loop                        
+Midwest Motocenter,Main Circuit Reverse,gravel1_main_loop_rev                 
+Motorcity Circuit,Main Circuit,tarmac2_main_circuit                     
+Motorcity Circuit,Main Circuit Reverse,tarmac2_main_circuit_rev              
+Mudford Motorpark,Mud Oval,fields10_1
+Mudford Motorpark,Mud Pit,fields10_2
+Northfolk Ring,Main Circuit,mixed8_r1
+Northfolk Ring,Open Circuit,mixed8_r2
+Northfolk Ring,Main Circuit Reverse,mixed8_r3_rev
+Northland Raceway,Outer Route,mixed5_outer_loop                       
+Northland Raceway,Outer Route Reverse,mixed5_outer_loop_rev                
+Northland Raceway,Inner Route,mixed5_inner_loop                        
+Northland Raceway,Inner Route Reverse,mixed5_inner_loop_rev                 
+Northland Raceway,Free Route,mixed5_free_route   
+Pinehills Raceway,Main Circuit,mixed3_long_loop                         
+Pinehills Raceway,Main Circuit Reverse,mixed3_long_loop_rev                  
+Pinehills Raceway,Short Circuit,mixed3_short_loop                        
+Pinehills Raceway,Short Circuit Reverse,mixed3_short_loop_rev                 
+Rockfield Roughspot,Dirt Oval,fields09_1
+Rosenheim Raceway,Main Circuit,mixed4_main_circuit                      
+Rosenheim Raceway,Main Circuit Reverse,mixed4_main_circuit_rev               
+Sandstone Raceway,Main Route,sandpit1_long_loop                 
+Sandstone Raceway,Main Route Reverse,sandpit1_long_loop_rev          
+Sandstone Raceway,Short Route,sandpit1_short_loop                
+Sandstone Raceway,Short Route Reverse,sandpit1_short_loop_rev         
+Sandstone Raceway,Alt Route,sandpit1_alt_loop                    
+Sandstone Raceway,Alt Route Reverse,sandpit1_alt_loop_rev
+Savolax Sandpit,Main Route,sandpit2_full_circuit                 
+Savolax Sandpit,Main Route Reverse,sandpit2_full_circuit_rev
+Savolax Sandpit,Short Route,sandpit2_2                               
+Savolax Sandpit,Short Route Reverse,sandpit2_2_rev                        
+The Maw,Demolition Arena,fields11_1
+Thunderbowl,Demolition Arena,urban07
+Tribend Speedway,Main Circuit,forest12_1
+Tribend Speedway,Reverse Circuit,forest12_1_rev
+Tribend Speedway,Wild Circuit,forest12_2
+Vale Falls Circuit,Main Circuit,forest11_1
+Vale Falls Circuit,Main Circuit Reverse,forest11_1_rev
+Vale Falls Circuit,Short Circuit,forest11_2
+Vale Falls Circuit,Short Circuit Reverse,forest11_2_rev

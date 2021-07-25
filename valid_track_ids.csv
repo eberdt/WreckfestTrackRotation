@@ -71,6 +71,8 @@ Pinehills Raceway,Main Circuit,mixed3_long_loop
 Pinehills Raceway,Main Circuit Reverse,mixed3_long_loop_rev                  
 Pinehills Raceway,Short Circuit,mixed3_short_loop                        
 Pinehills Raceway,Short Circuit Reverse,mixed3_short_loop_rev                 
+Rattlesnake Racepark,Main Circuit,fields14_1
+Rattlesnake Racepark,Main Circuit Reverse,fields14_2
 Rockfield Roughspot,Dirt Oval,fields09_1
 Rosenheim Raceway,Main Circuit,mixed4_main_circuit                      
 Rosenheim Raceway,Main Circuit Reverse,mixed4_main_circuit_rev               
@@ -93,3 +95,5 @@ Vale Falls Circuit,Main Circuit,forest11_1
 Vale Falls Circuit,Main Circuit Reverse,forest11_1_rev
 Vale Falls Circuit,Short Circuit,forest11_2
 Vale Falls Circuit,Short Circuit Reverse,forest11_2_rev
+Wrecknado,Main Circuit,urban09_1
+Wrecknado,Demolition Arena,urban09_2

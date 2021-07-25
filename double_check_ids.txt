@@ -17,6 +17,8 @@ fields12_2
 fields13_1
 fields13_1_rev
 fields13_2
+fields14_1
+fields14_2
 forest11_1
 forest11_1_rev
 forest11_2
@@ -92,3 +94,5 @@ urban06
 urban07
 urban08_1
 urban08_1_rev
+urban09_1
+urban09_2

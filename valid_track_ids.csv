@@ -1,10 +1,13 @@
 Location,Track,ID
 Big Valley Speedway,Open Demolition Arena,speedway2_classic_arena            
-Big Valley Speedway,Demolition arena,speedway2_demolition_arena      
+Big Valley Speedway,Demolition Arena,speedway2_demolition_arena
 Big Valley Speedway,Figure 8,speedway2_figure_8                     
 Big Valley Speedway,Inner Oval,speedway2_inner_oval                 
 Big Valley Speedway,Outer Oval,speedway2_outer_oval                 
 Big Valley Speedway,Outer Oval Loop,speedway2_oval_loop
+Bleak City,Race Tack,crm01_1
+Bleak City,Demolition Arena,crm01_3
+Bleak City,Race Track Reverse,crm01_5
 Bloomfield Speedway,Dirt Oval,dirt_speedway_dirt_oval               
 Bloomfield Speedway,Figure 8,dirt_speedway_figure_8               
 Bonebreaker Valley,Main Circuit,bonebreaker_valley_main_circuit
@@ -16,6 +19,7 @@ Clayridge Circuit,Main Circuit,mixed9_r1
 Clayridge Circuit,Main Circuit Reverse,mixed9_r1_rev
 Crash Canyon,Main Circuit,crash_canyon_main_circuit            
 Deathloop,Main Circuit,loop
+Devil's Canyon,Race Track,crm02_1
 Dirt Devil Stadium,Dirt Speedway,triangle_r1
 Dirt Devil Stadium,Demolition Arena,triangle_r2
 Drytown Desert Circuit,Main Circuit,fields08_1

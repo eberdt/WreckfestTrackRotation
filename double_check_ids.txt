@@ -2,6 +2,10 @@ bigstadium_demolition_arena
 bigstadium_figure_8
 bonebreaker_valley_main_circuit
 crash_canyon_main_circuit
+crm01_1
+crm01_3
+crm01_5
+crm02_1
 dirt_speedway_dirt_oval
 dirt_speedway_figure_8
 field_derby_arena
